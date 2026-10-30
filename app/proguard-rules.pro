@@ -1,0 +1,2 @@
+-keep class com.playflix.player.core.model.** { *; }
+-keep class androidx.media3.** { *; }
